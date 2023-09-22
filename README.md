@@ -1,3 +1,5 @@
+![image](https://github.com/aniiketbarphe/Computer-Vision-Algorithm-Hiring-Challenge-BOSCH-TechGIG-Sep2023/assets/84449238/21637f39-1136-40e3-8a32-1d2638573aca)
+
 # Computer-Vision-Algorithm-Hiring-Challenge-BOSCH-TechGIG-Sep2023
 
 **1) About Challenge:-** This challenge will be testing skills: Python, Deep Learning, Azure, PyTorch
